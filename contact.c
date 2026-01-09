@@ -1,14 +1,4 @@
-/*
-Name: Namrata Subhash Ketgale
-Start Date: 12/12/2025
-AdmissioN id : 25031_168
-Description: This file contains all the main functions to manage an address book:
-             - Create new contacts with validation
-             - Search contacts by name, phone, or email
-             - Edit contact details
-             - Delete contacts
-             - List all contacts in a tabular format
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
